@@ -1,4 +1,4 @@
-#How To Install Megamix Patches
+# How To Install Megamix Patches
 
 (This guide is for advanced users ONLY!)
 
