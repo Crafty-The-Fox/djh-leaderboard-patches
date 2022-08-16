@@ -90,7 +90,8 @@
     </Track>
 	
 	<!-- Beast Mode -->
-	<Track withID="CUS_BEASTMODE">
+    <Track withID="CUS_BEASTMODE">
         <LeaderboardID quickplay="2033" quickplay_difficulty="2034" />
     </Track>
+
 </Patch>
