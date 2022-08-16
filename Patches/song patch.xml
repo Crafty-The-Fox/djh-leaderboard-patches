@@ -94,4 +94,9 @@
         <LeaderboardID quickplay="2033" quickplay_difficulty="2034" />
     </Track>
 
+        <!-- True Blue (DJ Command Mix) -->
+    <Track withID="CUS_DJCTRUEBLUE">
+        <LeaderboardID quickplay="2035" quickplay_difficulty="2036" />
+    </Track>
+
 </Patch>
