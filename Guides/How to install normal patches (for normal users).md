@@ -8,5 +8,5 @@ After that, you need to go to your downloads folder or whereever you saved the f
 
 ![patch installed](https://raw.githubusercontent.com/Crafty-The-Fox/djh-leaderboard-patches/main/Guides/images/done%20patching.JPG)
 
-Click save. If you see an error where you dont have a custom installed, you can install the custom and re apply the patch, or just ignore it.
+Then, click "Ok". If you see an error where you dont have a custom installed, you can install the custom and re apply the patch, or just ignore it.
 
