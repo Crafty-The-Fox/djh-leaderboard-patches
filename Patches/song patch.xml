@@ -1,0 +1,182 @@
+<Patch>
+	<!-- Inner Code -->
+    <Track IDTag="CUS_INNERCODE">
+        <LeaderboardID quickplay="2000" quickplay_difficulty="2001" />
+    </Track>
+	
+	<!-- Objection Funk -->
+    <Track IDTag="CUS_OBJECTION">
+        <LeaderboardID quickplay="2002" quickplay_difficulty="2003" />
+    </Track>
+	
+	<!-- Daisycutter -->
+    <Track IDTag="CUS_DAISYCUTTER">
+        <LeaderboardID quickplay="2002" quickplay_difficulty="2003" />
+    </Track>
+
+	<!-- Rockin Fire -->
+    <Track IDTag="CUS_ROCKINFIRE">
+        <LeaderboardID quickplay="2004" quickplay_difficulty="2005" />
+    </Track>
+	
+	<!-- Stabwound -->
+    <Track IDTag="CUS_STABWOUND">
+        <LeaderboardID quickplay="2006" quickplay_difficulty="2007" />
+    </Track>
+	
+	<!-- Chain Break -->
+    <Track IDTag="CUS_CHAINBREAK">
+        <LeaderboardID quickplay="2008" quickplay_difficulty="2009" />
+    </Track>
+	
+	<!-- Imperium -->
+    <Track IDTag="CUS_IMPERIUM">
+        <LeaderboardID quickplay="2010" quickplay_difficulty="2011" />
+    </Track>
+	
+	<!-- Reanimate -->
+    <Track IDTag="CUS_REANIMATE">
+        <LeaderboardID quickplay="2012" quickplay_difficulty="2013" />
+    </Track>
+	
+	<!-- Imperium vs Bangarang -->
+    <Track IDTag="CUS_SKRILLPERIUM">
+        <LeaderboardID quickplay="2014" quickplay_difficulty="2015" />
+    </Track>
+	
+	<!-- Stuck Start -->
+    <Track IDTag="CUS_STUSTAR">
+        <LeaderboardID quickplay="2016" quickplay_difficulty="2017" />
+    </Track>
+	
+	<!-- Roll The Credits -->
+    <Track IDTag="CUS_ROLLCRED">
+        <LeaderboardID quickplay="2018" quickplay_difficulty="2019" />
+    </Track>
+	
+	<!-- Blow My Speakers Up -->
+    <Track IDTag="CUS_BMSU">
+        <LeaderboardID battle="4000" />
+    </Track>
+	
+	<!-- Blow My Speakers Up 1P -->
+    <Track IDTag="CUS_BMSU1P">
+        <LeaderboardID quickplay="2021" quickplay_difficulty="2022" />
+    </Track>
+	
+	<!-- 1077 -->
+    <Track IDTag="CUS_1077">
+        <LeaderboardID quickplay="2023" quickplay_difficulty="2024" />
+    </Track>
+	
+	<!-- Disorder -->
+    <Track IDTag="DISORDER">
+        <LeaderboardID quickplay="2025" quickplay_difficulty="2026" />
+    </Track>
+	
+	<!-- Rapp Snitches vs Boxed -->
+    <Track IDTag="RAPPBOXED">
+        <LeaderboardID quickplay="2027" quickplay_difficulty="2028" />
+    </Track>
+	
+	<!-- Lords Of The Roundtable -->
+    <Track IDTag="CUS_LOTRT">
+        <LeaderboardID quickplay="2029" quickplay_difficulty="2030" />
+    </Track>
+	
+	<!-- Megamix 3 v2 -->
+    <Track IDTag="CUS_DPMM3V2">
+        <LeaderboardID quickplay="2031" quickplay_difficulty="2032" />
+    </Track>
+	
+	<!-- Beast Mode -->
+    <Track IDTag="CUS_BEASTMODE">
+        <LeaderboardID quickplay="2033" quickplay_difficulty="2034" />
+    </Track>
+
+    <!-- True Blue (DJ Command Mix) -->
+    <Track IDTag="CUS_DJCTRUEBLUE">
+        <LeaderboardID quickplay="2035" quickplay_difficulty="2036" />
+    </Track>
+	
+	<!-- Exorcism vs The Evil Side Of Man -->
+    <Track IDTag="CUS_M_SPOOKY1">
+        <LeaderboardID quickplay="2037" quickplay_difficulty="2038" />
+    </Track>
+	
+	<!-- Cannibalizm vs Corpse Grinder -->
+    <Track IDTag="CUS_M_SPOOKY2">
+        <LeaderboardID quickplay="2039" quickplay_difficulty="2040" />
+    </Track>
+	
+	<!-- Mukapuka vs The Jackal (Basement Mix) -->
+    <Track IDTag="CUS_M_SPOOKY3">
+        <LeaderboardID quickplay="2041" quickplay_difficulty="2042" />
+    </Track>
+	
+	<!-- Poltergeist (Olly P Remix) vs Killa Clowns (190BPM Mix) -->
+    <Track IDTag="CUS_M_SPOOKY4">
+        <LeaderboardID quickplay="2043" quickplay_difficulty="2044" />
+    </Track>
+	
+	<!-- Werewolf (Dark Shadows VIP Mix) vs I Created A Monster (IYF & Nobody Remix) -->
+    <Track IDTag="CUS_M_SPOOKY5">
+        <LeaderboardID quickplay="2045" quickplay_difficulty="2046" />
+    </Track>
+	
+	<!-- Floorburn vs Ricochet (2nd Phase Remix) -->
+    <Track IDTag="CUS_FLOORICO">
+        <LeaderboardID quickplay="2047" quickplay_difficulty="2048" />
+    </Track>
+	
+	<!-- Hoipolloi vs Odysseus -->
+    <Track IDTag="CUS_HODYSSE">
+        <LeaderboardID quickplay="2049" quickplay_difficulty="2050" />
+    </Track>
+	
+	<!-- Fancy Fair vs Chernobyl -->
+    <Track IDTag="CUS_FANOBYL">
+        <LeaderboardID quickplay="2051" quickplay_difficulty="2052" />
+    </Track>
+	
+	<!-- Kriminal Fashion vs On The Go -->
+    <Track IDTag="CUS_KRIMGO">
+        <LeaderboardID quickplay="2053" quickplay_difficulty="2054" />
+    </Track>
+	
+	<!-- In Your Eyes vs Sueno -->
+    <Track IDTag="CUS_EYESU">
+        <LeaderboardID quickplay="2055" quickplay_difficulty="2056" />
+    </Track>
+	
+	<!-- Find (Andy Moor Remix) -->
+    <Track IDTag="CUS_FINDAM">
+        <LeaderboardID quickplay="2057" quickplay_difficulty="2058" />
+    </Track>
+	
+	<!-- Sweet Things vs 7Skies -->
+    <Track IDTag="CUS_SWE7">
+        <LeaderboardID quickplay="2059" quickplay_difficulty="2060" />
+    </Track>
+	
+	<!-- Shot Me Down -->
+    <Track IDTag="CUS_SHOTMEDOWN">
+        <LeaderboardID quickplay="2061" quickplay_difficulty="2062" />
+    </Track>
+	
+	<!-- Shot Me Down -->
+    <Track IDTag="CUS_INSANETECH">
+        <LeaderboardID quickplay="2063" quickplay_difficulty="2064" />
+    </Track>
+	
+	<!-- Frenchcore 2013 -->
+    <Track IDTag="CUS_FRENCHCORE2013">
+        <LeaderboardID quickplay="2065" quickplay_difficulty="2066" />
+    </Track>
+	
+	<!-- Frenchcore 2013 -->
+    <Track IDTag="CUS_ROSEBEAT">
+        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+    </Track>
+
+</Patch>
