@@ -164,7 +164,7 @@
         <LeaderboardID quickplay="2061" quickplay_difficulty="2062" />
     </Track>
 	
-	<!-- Shot Me Down -->
+	<!-- Insane Techniques -->
     <Track IDTag="CUS_INSANETECH">
         <LeaderboardID quickplay="2063" quickplay_difficulty="2064" />
     </Track>
