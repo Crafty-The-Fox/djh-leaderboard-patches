@@ -10,3 +10,5 @@ After that, you need to go to your downloads folder or whereever you saved the f
 
 Then, click "Ok". If you see an error where you dont have a custom installed, you can install the custom and re apply the patch, or just ignore it.
 
+After that, boot up your game and enjoy!
+
