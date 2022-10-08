@@ -194,4 +194,14 @@
         <LeaderboardID quickplay="2073" quickplay_difficulty="2074" />
     </Track>
 
+	<!-- Soulless 1 -->
+    <Track IDTag="S1">
+        <LeaderboardID quickplay="2075" quickplay_difficulty="2076" />
+    </Track>
+
+	<!-- Soulless 2 -->
+    <Track IDTag="S2">
+        <LeaderboardID quickplay="2077" quickplay_difficulty="2078" />
+    </Track>
+
 </Patch>
