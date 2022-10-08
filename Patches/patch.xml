@@ -174,8 +174,23 @@
         <LeaderboardID quickplay="2065" quickplay_difficulty="2066" />
     </Track>
 	
-	<!-- Frenchcore 2013 -->
+	<!-- Rosebeat -->
     <Track IDTag="CUS_ROSEBEAT">
+        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+    </Track>
+
+	<!-- Soulless 3 part 1 -->
+    <Track IDTag="S3P1">
+        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+    </Track>
+
+	<!-- Soulless 3 part 2 -->
+    <Track IDTag="S3P2">
+        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+    </Track>
+
+	<!-- Soulless 3 part 3 -->
+    <Track IDTag="S3P3">
         <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
     </Track>
 
