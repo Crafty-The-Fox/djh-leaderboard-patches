@@ -181,17 +181,17 @@
 
 	<!-- Soulless 3 part 1 -->
     <Track IDTag="S3P1">
-        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+        <LeaderboardID quickplay="2069" quickplay_difficulty="2070" />
     </Track>
 
 	<!-- Soulless 3 part 2 -->
     <Track IDTag="S3P2">
-        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+        <LeaderboardID quickplay="2071" quickplay_difficulty="2072" />
     </Track>
 
 	<!-- Soulless 3 part 3 -->
     <Track IDTag="S3P3">
-        <LeaderboardID quickplay="2067" quickplay_difficulty="2068" />
+        <LeaderboardID quickplay="2073" quickplay_difficulty="2074" />
     </Track>
 
 </Patch>
